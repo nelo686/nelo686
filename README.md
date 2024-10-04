@@ -1,5 +1,5 @@
 ## 👋 Hi there, my name is Daniel García
-#### I`m an Android Senior Developer
+I`m an enthusiastic Android Developer with over 12 years of experience, passionate about learning and constantly improving. Committed to delivering high quality products with an impressive user interface, great usability and scalability through best practices.
 
 ## Skils:
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)
@@ -20,5 +20,10 @@
 ![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)</br>
 
 ## Courses:
+![Compose Expert](https://img.shields.io/badge/Compose_Expert-FF9900?style=for-the-badge&logo=codecrafters&logoColor=white&labelColor=101010)
+![Architect Coders](https://img.shields.io/badge/Architect_Coders-FF6000?style=for-the-badge&logo=codecrafters&logoColor=white&labelColor=101010)
+![Kotlin for Android developers](https://img.shields.io/badge/Kotlin_for_Android_developers-0095D5?style=for-the-badge&logo=codecrafters&logoColor=white&labelColor=101010)
+</br>
+![Unit testing and Android Architectures](https://img.shields.io/badge/Unit_testing_and_Android_Architectures-D30707?style=for-the-badge&logo=codecrafters&logoColor=white&labelColor=101010)
 
 You can find me on [LinkedIn](https://www.linkedin.com/in/danielgarciar/)
